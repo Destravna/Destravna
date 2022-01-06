@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruv Singh
 - 👀 I’m interested in lots of stuff 
-- 🌱 I’m currently learning datastructurs
+- 🌱 I’m currently learning datastructures
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me kingrajput450@gmail.com
 
